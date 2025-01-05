@@ -35,8 +35,6 @@
 </p>
 <p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=12LuA&theme=transparent)](https://git.io/streak-stats)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/602846728147959808)](https://discord.com/users/602846728147959808)
   
 </p>
