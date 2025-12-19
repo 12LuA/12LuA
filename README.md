@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 23 mins
+Total Time: 13 hrs 31 mins
 
-Python                     8 hrs 35 mins   ██████████████░░░░░░░░░░░   55.77 %
-TypeScript                 3 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
-MDX                        48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-JSON                       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-HTML                       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Python                     6 hrs 57 mins   █████████████░░░░░░░░░░░░   51.39 %
+TypeScript                 3 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+MDX                        48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JSON                       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+HTML                       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
