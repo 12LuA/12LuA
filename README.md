@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 50 mins
+Total Time: 36 hrs 25 mins
 
-MDX                  10 hrs 43 mins  ████████░░░░░░░░░░░░░░░░░   31.68 %
-TypeScript           7 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
-CSS                  5 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-YAML                 3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Python               3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+MDX                  10 hrs 2 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
+TypeScript           8 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+YAML                 5 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Python               5 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+CSS                  4 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
 ```
 
 <!--END_SECTION:waka-->
