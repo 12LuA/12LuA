@@ -70,3 +70,5 @@ Python               2 hrs 26 mins   █▓░░░░░░░░░░░░�
 <p align="right">
   <img align="center" src="https://komarev.com/ghpvc/?username=12LuA&label=Profile%20views&color=0e75b6&style=flat" alt="12LuA"/>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/018e2a7e-0f00-4f94-bc1d-2b772065ca16.svg)](https://wakatime.com/@018e2a7e-0f00-4f94-bc1d-2b772065ca16)
