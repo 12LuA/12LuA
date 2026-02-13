@@ -58,8 +58,9 @@ YAML                       1 hr 47 mins    █░░░░░░░░░░░�
 
 ## 📊 GitHub Stats
 
+![Stats](./profile/stats.svg)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12LuA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=12LuA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
