@@ -72,4 +72,9 @@ JSON                       2 hrs 32 mins         █▒░░░░░░░░�
   <img align="center" src="https://komarev.com/ghpvc/?username=12LuA&label=Profile%20views&color=0e75b6&style=flat" alt="12LuA"/>
 </p>
 
+<details>
+  <summary><h2>📊 Stats and Activity</h2></summary>
+  <a><img alt="12LuA's Activity Graph" src="https://graph.12lua.de/graph?bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true&username=12LuA" /></a>
+</details>
+
 [![wakatime](https://wakatime.com/badge/user/018e2a7e-0f00-4f94-bc1d-2b772065ca16.svg)](https://wakatime.com/@018e2a7e-0f00-4f94-bc1d-2b772065ca16)
