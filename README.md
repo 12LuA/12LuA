@@ -45,12 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 mins
+Total Time: 0 secs
 
-HTML     17 mins               ███████████████████▒░░░░░   76.71 %
-Text     2 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Python   1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-YAML     0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Python   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
