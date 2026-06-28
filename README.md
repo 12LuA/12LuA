@@ -45,9 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 mins
+Total Time: 22 mins
 
-Python   32 mins               █████████████████████████   100.00 %
+JSON         10 mins               ███████████░░░░░░░░░░░░░░   43.57 %
+Markdown     6 mins                ███████░░░░░░░░░░░░░░░░░░   27.99 %
+JavaScript   4 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+Other        1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+TypeScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
