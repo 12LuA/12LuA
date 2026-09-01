@@ -45,9 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 mins
+Total Time: 6 hrs 47 mins
 
-Markdown   7 mins                █████████████████████████   100.00 %
+Python               2 hrs 45 mins         █████████▓░░░░░░░░░░░░░░░   38.70 %
+Gettext Catalog      1 hr 16 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+YAML                 1 hr 5 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+JSON                 44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Bash                 36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 ```
 
 <!--END_SECTION:waka-->
