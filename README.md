@@ -45,11 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 18 mins
+Total Time: 9 mins
 
-Python   2 hrs 17 mins         ████████████████████████▓   99.13 %
-YAML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-SQL      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python   9 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
