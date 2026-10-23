@@ -60,9 +60,12 @@ CSS          37 mins               █░░░░░░░░░░░░░░
 
 ![Stats](./profile/stats.svg)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12LuA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/streak-dark.svg">
+  <img alt="GitHub contribution streak for 12lua" src="profile/streak-light.svg">
+</picture>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12LuA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
