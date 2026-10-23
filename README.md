@@ -75,9 +75,11 @@ CSS          37 mins               █░░░░░░░░░░░░░░
   <img align="center" src="https://komarev.com/ghpvc/?username=12LuA&label=Profile%20views&color=0e75b6&style=flat" alt="12LuA"/>
 </p>
 
-<details>
-  <summary><h2>📊 Stats and Activity</h2></summary>
-  <a><img alt="12LuA's Activity Graph" src="https://graph.12lua.de/graph?bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true&username=12LuA" /></a>
-</details>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://graph.12lua.de/graph?username=12lua&bg_color=0C0E1A&border_color=1C2036&color=A1A1AA&title_color=FAFAFA&line=8A9DE4&point=FAFAFA&area=true&area_color=8A9DE4&radius=16">
+  <img alt="GitHub activity graph for 12lua" src="https://graph.12lua.de/graph?username=12lua&bg_color=FFFFFF&border_color=E4E4E7&color=71717A&title_color=09090B&line=8A9DE4&point=4F63D2&area=true&area_color=8A9DE4&radius=16">
+</picture>
+</p>
 
 [![wakatime](https://wakatime.com/badge/user/018e2a7e-0f00-4f94-bc1d-2b772065ca16.svg)](https://wakatime.com/@018e2a7e-0f00-4f94-bc1d-2b772065ca16)
