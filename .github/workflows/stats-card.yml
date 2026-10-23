@@ -1,0 +1,42 @@
+name: Update stats card
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=${{ github.repository_owner }}&show_icons=true&border_radius=16&icon_color=8A9DE4&ring_color=8A9DE4&disable_animations=true&include_all_commits=true&text_bold=false&bg_color=0C0E1A&border_color=1C2036&title_color=8A9DE4&text_color=FAFAFA
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=${{ github.repository_owner }}&show_icons=true&border_radius=16&icon_color=8A9DE4&ring_color=8A9DE4&disable_animations=true&include_all_commits=true&text_bold=false&bg_color=FFFFFF&border_color=E4E4E7&title_color=4F63D2&text_color=09090B
+          path: profile/stats-light.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

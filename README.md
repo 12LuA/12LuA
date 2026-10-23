@@ -58,7 +58,11 @@ CSS          37 mins               █░░░░░░░░░░░░░░
 
 ## 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+  <img alt="GitHub Stats card" src="./profile/stats-dark.svg">
+</picture>
 
 <p>
 <picture>
