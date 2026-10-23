@@ -67,13 +67,7 @@ CSS          37 mins               █░░░░░░░░░░░░░░
 </picture>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12LuA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
-<p align="right">
-  <img align="center" src="https://komarev.com/ghpvc/?username=12LuA&label=Profile%20views&color=0e75b6&style=flat" alt="12LuA"/>
-</p>
 
 <p>
 <picture>
@@ -82,4 +76,15 @@ CSS          37 mins               █░░░░░░░░░░░░░░
 </picture>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/018e2a7e-0f00-4f94-bc1d-2b772065ca16.svg)](https://wakatime.com/@018e2a7e-0f00-4f94-bc1d-2b772065ca16)
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://wakatime.com/@018e2a7e-0f00-4f94-bc1d-2b772065ca16">
+        <img src="https://wakatime.com/badge/user/018e2a7e-0f00-4f94-bc1d-2b772065ca16.svg" alt="WakaTime" />
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=12LuA&label=Profile%20views&color=0e75b6&style=flat" alt="12LuA" />
+    </td>
+  </tr>
+</table>
