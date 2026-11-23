@@ -45,12 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 33 mins
+Total Time: 0 secs
 
-Python             53 mins               ██████████████▒░░░░░░░░░░   57.08 %
-Text               25 mins               ███████░░░░░░░░░░░░░░░░░░   27.76 %
-JSON               14 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Wavefront Object   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
